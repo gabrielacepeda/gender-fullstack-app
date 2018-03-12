@@ -18,7 +18,7 @@ This simple app works efficiently.
 
 ## Lessons Learned:
 
-Relying on back-end applications such as Node.js, to make an app functional was new and exciting to me.
+Relying on back-end frameworks such as Node.js, to make an app functional was new and exciting to me.
 
 ## Installation
 
