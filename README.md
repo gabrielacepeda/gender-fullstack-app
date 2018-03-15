@@ -10,7 +10,7 @@ This Full Stack application allows the user to click a sex, male or female, and 
 
 **Tech used:** HTML, CSS, JavaScript and Node.js
 
-Using HTML, CSS, JavaScript and Node.js, I created this app where depending which button you click, a different message is displayed.
+Using HTML, CSS, JavaScript and Node.js, I created this app where depending which button you click, a different message is displayed. I mainly utilized node in order to recieve a message depending on what button was clicked instead of relying on JavaScript.
 
 ## Optimizations
 
